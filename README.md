@@ -9,11 +9,11 @@ I'm a Computer science undergraduate seeking new job roles to gain more experien
 ## Technical skills known 🙌🙌!!
 --> Programming Languages : Basics of Java, C 👩🏻‍💻💻.
 
---> Technologies : HTML5, CSS3, AWS Web Services 😶‍🌫️.
+--> Technologies : HTML5, CSS3, Angular, RESTAPI, Hibernate, JDBC, JSP, AWS Web Services 😶‍🌫️.
 
 --> Tools Known : Git,Amazon Management Console.
 
 ## Things about the me 😁😁!!
 -->I'm always down to take part in 🏅🏅 extra curricular activities (●'◡'●)
 
-💬 Ask me about life advice🤣🤣,Food 😘, and tech solutions 👩🏻‍🎓.
+💬 Ask me about life advice🤣🤣,Food 😘, Sports🏅🏃‍♀️ and tech solutions 👩🏻‍🎓.
