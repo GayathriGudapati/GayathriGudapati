@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Bala Gayathri Gudapati ,Welcome to my git profile 😊.
-I'm a Computer science undergraduate seeking new job roles to gain more experience and stay up-to-date on the latest technological advancement. 
+I'm a Computer science graduate seeking new job roles to gain more experience and stay up-to-date on the latest technological advancement. 
 
 -->I have been a AWS trainee ✨ {Certified Cloud Practitioner}.
 
